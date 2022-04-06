@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+Here is yoli!
+- 😄 Pronouns: she/her
+- 🔭 I’m currently master's student in Data Science at the University of San Francisco with a background in computer science, bioinformatics, and chemical engineering. Fascinated by the potential power of data to solve healthcare-related problems and propose solutions in big data insight.
+- 📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/you-yoli-wu/)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereisyoli&layout=compact" alt="hereisyoli's github stats"/>
 
 <!--
